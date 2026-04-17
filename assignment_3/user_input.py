@@ -1,3 +1,6 @@
+"""This program takes student details from the user and saves them into a CSV file as a new record."""
+
+
 import csv
 
 def add_record():

@@ -1,3 +1,5 @@
+"""This program reads student records from a CSV file and displays them in a formatted table."""
+
 import csv 
 
 def read_data():
